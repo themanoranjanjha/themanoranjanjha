@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Manoranjan Kumar Jha  
 **A Passionate MERN Stack Developer | React.js Enthusiast | Open Source Contributor from India 🇮🇳**
 
-📬 **Email Me:** ✉️ [manoranjanjhaofficial@gmail.com](mailto:manoranjanjhaofficial@gmail.com) for Collaboration, Projects, or anything Tech 😊  
+📬 **Email Me:** ✉️ [manoranjankrj@gmail.com](mailto:manoranjankrj@gmail.com) for Collaboration, Projects, or anything Tech 😊  
 
 - 🔭 **I’m currently working on:** A peer-to-peer video calling app using WebRTC, React, and Appwrite  
 - 🌱 **I’m currently learning:** Data Structures & Algorithms, Advanced Node.js  
 - 👯 **I’m looking to collaborate on:** Full Stack MERN projects & Open Source contributions  
 - 🤔 **I’m looking for help with:** Optimizing real-time applications and scalable architectures  
 - 💬 **Ask me about:** React, JavaScript, MERN Stack, Tailwind, WebRTC  
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/themanoranjanjha/) | [Portfolio](https://themanoranjanjha.github.io/)  
+- 📫 **How to reach me:** [LinkedIn]([https://www.linkedin.com/in/themanoranjanjha/]([https://www.linkedin.com/in/manoranjankumarjha/](https://www.linkedin.com/in/manoranjankumarjha/))) | [Portfolio]([https://themanoranjanjha.github.io/](https://manoranjan-jha.netlify.app/))  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I love building UIs that feel alive ✨
 
