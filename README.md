@@ -18,7 +18,7 @@
 Follow me on social media & stay updated with my latest projects and tech content 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themanoranjanjha/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://themanoranjanjha.github.io/) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://manoranjan-jha.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themanoranjanjha)  
 
 [![](https://visitcount.itsvg.in/api?id=themanoranjanjha&icon=1&color=4)](https://visitcount.itsvg.in)
